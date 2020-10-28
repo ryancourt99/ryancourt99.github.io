@@ -11,20 +11,20 @@ p {font-size: 16px;}
   color: #2f2f2f;
 }
 .bg-2 { 
-  background-color: #ffffff; /* black grey */
-  color: #2f2f2f;
+  background-color:#2f2f2f; /* black grey */
+  color: white;
 }
 .bg-3 { 
-  background-color:black; /* White */
-  color: white;
-}
-.bg-4 { 
-  background-color: white; /* Black Gray */
+  background-color: white; /* White */
   color: #2f2f2f;
 }
+.bg-4 { 
+  background-color:#2f2f2f; /* Black Gray */
+  color:white;
+}
 .bg-5 { 
-  background-color:  #2f2f2f; /* Black Gray */
-  color: white;
+  background-color:  white; /* Black Gray */
+  color: #2f2f2f;
 }
 .container-fluid {
   padding-top: 60px;
@@ -40,7 +40,7 @@ p {font-size: 16px;}
   letter-spacing: 5px;
 }
 .navbar-nav  li a:hover {
-  color: white !important;
+  color:  #2f2f2f !important;
 }
 .fa {
   padding: 10px;
