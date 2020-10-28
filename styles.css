@@ -7,28 +7,24 @@ body {
 p {font-size: 16px;}
 .margin {margin-bottom: 45px;}
 .bg-1 { 
-  background-color:  black; /* white */
-  color:  #ffffff;
-}
-.bg-8 { 
-  background-color:  #ffffff; /* black grey */
-  color: #2f2f2f;
+  background-color:#2f2f2f; /* white */
+  color: white;
 }
 .bg-2 { 
-  background-color: black; /* black grey */
-  color:  #ffffff;
+  background-color: #ffffff; /* black grey */
+  color: #2f2f2f;
 }
 .bg-3 { 
-  background-color:  #ffffff; /* White */
-  color:#2f2f2f;
+  background-color:black; /* White */
+  color: white;
 }
 .bg-4 { 
-  background-color:  black; /* Black Gray */
-  color:   #ffffff;
+  background-color: white; /* Black Gray */
+  color: #2f2f2f;
 }
 .bg-5 { 
-  background-color:#ffffff; /* Black Gray */
-  color:#2f2f2f;
+  background-color:  #2f2f2f; /* Black Gray */
+  color: white;
 }
 .container-fluid {
   padding-top: 60px;
