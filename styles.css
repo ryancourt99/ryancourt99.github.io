@@ -9,6 +9,8 @@ p {font-size: 16px;}
 .bg-1 { 
   background-color:white; /* white */
   color: #2f2f2f;
+  background-color:#2f2f2f; /* white */
+  color: #ffffff;
 }
 .bg-2 { 
   background-color:#2f2f2f; /* black grey */
